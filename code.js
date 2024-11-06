@@ -13,3 +13,4 @@ function bottomupdp(n) {
 
     return e;
 }
+module.exports = bottomupdp;
