@@ -1,6 +1,6 @@
 const fs = require('fs');
 const assert = require('assert');
-eval(fs.readFileSync('code.js') + '');
+
 
 assert(bottomupdp(1) === 2.0);
 assert(bottomupdp(2) === 2.5);
