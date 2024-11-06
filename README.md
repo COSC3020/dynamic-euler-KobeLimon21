@@ -20,4 +20,8 @@ What is the worst-case big $\Theta$ time complexity of your algorithm?
 
 Sources:
 
-https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/ -  see more examples of bottom up 
+https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/ - see more examples of bottom up 
+
+https://www.mathsisfun.com/numbers/e-eulers-number.html - explain euler's number 
+
+
