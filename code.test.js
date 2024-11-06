@@ -1,7 +1,6 @@
-const bottomupdp = require('./code.js');
-const assert = require('assert');
-
-
+const fs = require('fs');
+const jsc = require('jsverify');
+eval(fs.readFileSync('code.js')+'');
 
 assert(bottomupdp(1) === 2.0);
 assert(bottomupdp(2) === 2.5);
