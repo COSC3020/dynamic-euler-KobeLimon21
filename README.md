@@ -16,7 +16,10 @@ but you need to go beyond that.
 
 ## Runtime Analysis
 
+
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+The worst case for this is $\Theta$(n), as the only for loop in the code iterates n times. No matter what the input is, it will iterate n times which is why it is also the average case. 
 
 Sources:
 
